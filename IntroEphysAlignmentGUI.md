@@ -11,7 +11,7 @@ Thanks to these design features, the GUI therefore allows to visually inspect th
   
 The following sections will provide an introduction to and an overview of the ephys alignment tool GUI and its main features.
   
-And [[here](/Users/keesvanderlaan/Documents/Code/internship_NL_2023/HowToDoAlignmentsBeginnersGuide.md) you can read about how I got started with the tool doing alignments of sessions recorded from the IBL repeated sites in aged mice.
+And [here](https://github.com/sonjafoerster/internshipNL2023/blob/main/HowToDoAlignmentsBeginnersGuide.md) you can read about how I got started with the tool doing alignments of sessions recorded from the IBL repeated sites in aged mice.
   
 # Prereqs to launch the IBL ephys alignment tool
 ## Install unified IBL python environment
@@ -75,21 +75,23 @@ It might take some time for the data to load, keep an eye out on your terminal t
   
 # Feature overview GUI
 For an excellent introduction to the GUI design and features, see the [IBL user guide](https://github.com/int-brain-lab/iblapps/wiki/2.-Usage-instructions "https://github.com/int-brain-lab/iblapps/wiki/2.-Usage-instructions").
-My [rather personal reflection](/Users/keesvanderlaan/Documents/Code/internship_NL_2023/HowToDoAlignmentsBeginnersGuide.md) on how I learned to use the software contains some additional information which may be helpful for others, too.
+
+My [rather personal reflection](https://github.com/sonjafoerster/internshipNL2023/blob/main/HowToDoAlignmentsBeginnersGuide.md) on how I learned to use the software contains some additional information which may be helpful for others, too.
   
 # Troubleshooting
 ## General
 Please find a list of [known problems and troubleshooting](https://github.com/int-brain-lab/iblapps/wiki/5.-Troubleshooting "https://github.com/int-brain-lab/iblapps/wiki/5.-Troubleshooting") in the respective section of the IBL user guide.
-If you encounter other issues, please try first to update your enviornment as described [[here]]. If the issue persists you can also
+If you encounter other issues, please try first to update your enviornment as described [here](https://github.com/sonjafoerster/internshipNL2023/blob/main/IntroEphysAlignmentGUI.md#keep-environment-up-to-date). If the issue persists you can also
 [open a ticket here](https://github.com/int-brain-lab/iblapps/issues "https://github.com/int-brain-lab/iblapps/issues"). Make sure to include a proper description to replicate the issue as well as the error message you got in the terminal.
   
 ## File does not load
 There are many reasons why a file might not load properly. This may even happen if the data was successfully loaded before. In such a case, try whether deleting the session folder and reloading the data solves the issue: Locate the folder with the respective subject name in your ONE folder (probably in your downloads) and delete it. Then, try to load the data again through the software GUI.
+
   
 * * *
 # Useful resources
 - IBL [user guide](https://github.com/int-brain-lab/iblapps/wiki/2.-Usage-instructions "https://github.com/int-brain-lab/iblapps/wiki/2.-Usage-instructions") to the ephys alignment GUI
 - IBL instructions [how to install and launch](https://github.com/int-brain-lab/iblapps/wiki/1.-Installation "https://github.com/int-brain-lab/iblapps/wiki/1.-Installation") the IBL ephys alignment tool
 - [IBL git repo for the IBLENV](https://github.com/int-brain-lab/iblenv "https://github.com/int-brain-lab/iblenv") environment, including instructions how to install / update the unified IBL python environment
-- An [introduction lecture](https://(https://www.youtube.com/watch?v=JWzj_vZYr-g&feature=youtu.be "https://(https://www.youtube.com/watch?v=JWzj_vZYr-g&feature=youtu.be") to the tool was given at the [2020 UCL Neuropixels course](https://www.ucl.ac.uk/neuropixels/training/2020-neuropixels-course "https://www.ucl.ac.uk/neuropixels/training/2020-neuropixels-course"). 
+- An [introduction lecture](https://www.youtube.com/watch?v=JWzj_vZYr-g&feature=youtu.be "https://(https://www.youtube.com/watch?v=JWzj_vZYr-g&feature=youtu.be") to the tool was given at the [2020 UCL Neuropixels course](https://www.ucl.ac.uk/neuropixels/training/2020-neuropixels-course "https://www.ucl.ac.uk/neuropixels/training/2020-neuropixels-course") 
 - IBL overview and latest updates on [troubleshooting](https://github.com/int-brain-lab/iblapps/wiki/5.-Troubleshooting "https://github.com/int-brain-lab/iblapps/wiki/5.-Troubleshooting")
