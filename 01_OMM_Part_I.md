@@ -75,7 +75,7 @@ Depending on the local wifi connection, it might take some time for the software
 </br>
 
 _Figure 1. IBL ephys alignment tool upon launch: empty plots, no data yet._  
-<img src="images/OpenSWEmptyGUI.png"  width="1200">  
+<img src="images/OpenSWEmptyGUI.png"  width="100%">  
 
 </br>
 
@@ -91,7 +91,7 @@ Finally, hit the _Get Data_ button to the right of the dropdowns (4) to load the
 </br>
 
 _Figure 2. Select data via the dropdown menus (upper right; 1 - 3) from left to right, then load data (4)._
-<img src="images/LoadExistingFile.png"  width="1200">   
+<img src="images/LoadExistingFile.png"  width="100%">   
   
 It might take some time for the data to load, keep an eye out on your terminal to watch the progress.  
 
@@ -123,7 +123,7 @@ If you encounter other issues, please try first to update your enviornment as de
 There are many reasons why a file might not load properly. This may even happen if the data was successfully loaded before. In such a case, try whether deleting the session folder and reloading the data solves the issue: Locate the folder with the respective subject name in your ONE folder (probably in your downloads) and delete it. Then, try to load the data again through the software GUI.
   
 </br>
-  
+
 * * *
 # References
 - IBL [user guide](https://github.com/int-brain-lab/iblapps/wiki/2.-Usage-instructions "https://github.com/int-brain-lab/iblapps/wiki/2.-Usage-instructions") to the ephys alignment GUI

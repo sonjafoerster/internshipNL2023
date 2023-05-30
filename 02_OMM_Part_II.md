@@ -28,7 +28,7 @@ So, learning begins. This [introduction lecture](https://www.youtube.com/watch?
 
 _Figure 1. Recording with rather little neural yield in some areas and three not too big FR peaks at upper CA1._ 
 _(Source: screenshots from my alignments)_
-<img src="images/SWC_030_20201022_probe00_left_alignmentAnup.png"  width="1100">
+<img src="images/SWC_030_20201022_probe00_left_alignmentAnup.png"  width="100%">
 
 </br>
 
@@ -38,7 +38,7 @@ As a beginner, I was on the lookout for these simple relations: high firing rate
 
 _Figure 2. Recording of another animal than in Figure 1: same side, similar nuclei. Rather high neural yield, also ephys feature in upper CA1 area looks quite different from that in Figure 1. So, is it the same?_ 
 _(Source: screenshots from my alignments)_
-<img src="images/SWC_029_20201005_probe01_left_alignmentAnup.png"  width="1100">  
+<img src="images/SWC_029_20201005_probe01_left_alignmentAnup.png"  width="100%">  
 
 </br>
 
@@ -59,7 +59,7 @@ The biggested learning her for me was to take the time I need to dive into the p
 
 _Figure 3. A noise artifcat (vertical stripe) is clearly visible at ca. 4500s in firing rate plot (left), amplitude plot (middle), and AP RMS plot (right). It might be related to electrical grounding issues, maybe a refill of the saline bath towards the end of the session. (Source: screenshots from my alignments)_
 
-<img src="images/vertLineFR_CSHL_019_20200312_probe00_left.png"  height="350"> <img src="images/vertLineAmp_CSHL_019_20200312_probe00_left.png"  height="350"> <img src="images/vertLineRMS_CSHL_019_20200312_probe00_left.png"  height="350"> 
+<img src="images/vertLineFR_CSHL_019_20200312_probe00_left.png"  width="30%"> <img src="images/vertLineAmp_CSHL_019_20200312_probe00_left.png"  width="30%"> <img src="images/vertLineRMS_CSHL_019_20200312_probe00_left.png"  width="32%"> 
 
 </br>
 

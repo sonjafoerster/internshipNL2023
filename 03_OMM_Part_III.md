@@ -23,7 +23,7 @@ Of great help were for example the [IBL paper on their spike sorting pipeline (I
 
 _Figure 1. Assessing recording quality by visually inspecting RMS plots: spatial drift visible (left), good quality with stationary signal within channels (middle). Right plot indicates both flat reference channels (horizontal lines) and electrical noise (vertical lines) (Source: [IBL spike sorting pipeline; 2022](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3 "https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3"))_
 
-<img src="images/qc_noise.png"  width="1100">
+<img src="images/qc_noise.png"  width="80%">
 
 </br>
 
@@ -35,7 +35,7 @@ Another source of noise could be related to tissue damage. Check histology plot 
 
 _Figure 2. Severe tissue damage, and later recording in that animal’s life (see remainder of previous probe trace, yellow stripe right of current LASAGNA interpolation (left) versus little damage (probably inflamation which may not impact recording quality; right) (Source: screenshots from my alignments)_
 
-<img src="images/tissueDamage5_CSHL029_20200727_probe00_left.png"  height="250"> <img src="images/tissueDamage2_CSHL075_20201015_probe00_left.png"  height="250">
+<img src="images/tissueDamage5_CSHL029_20200727_probe00_left.png"  width="35%"> <img src="images/tissueDamage2_CSHL075_20201015_probe00_left.png"  width="35%">
 
 </br>
 
@@ -49,7 +49,7 @@ _Figure 2. Severe tissue damage, and later recording in that animal’s life (se
 
 _Figure 3. Example of axonal spike with flipped polarity waveform (left) versus examples of typical spike waveform (right). (Source: Screenshots from my alignments)_
 
-<img src="images/axonalSpike.png"  height="250"> <img src="images/spike.png"  height="250"> 
+<img src="images/axonalSpike.png"  width="43%"> <img src="images/spike.png"  width="40%"> 
 
 </br>
 
