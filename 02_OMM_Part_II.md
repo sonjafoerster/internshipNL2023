@@ -58,6 +58,7 @@ The biggested learning her for me was to take the time I need to dive into the p
 </br>
 
 _Figure 3. A noise artifcat (vertical stripe) is clearly visible at ca. 4500s in firing rate plot (left), amplitude plot (middle), and AP RMS plot (right). It might be related to electrical grounding issues, maybe a refill of the saline bath towards the end of the session. (Source: screenshots from my alignments)_
+
 <img src="images/vertLineFR_CSHL_019_20200312_probe00_left.png"  height="350"> <img src="images/vertLineAmp_CSHL_019_20200312_probe00_left.png"  height="350"> <img src="images/vertLineRMS_CSHL_019_20200312_probe00_left.png"  height="350"> 
 
 </br>
