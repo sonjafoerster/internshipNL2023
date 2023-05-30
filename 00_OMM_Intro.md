@@ -20,12 +20,15 @@ _Figure 1. The regions of the mouse brain comprising the IBL repeated site, and 
 <img src="images/histmapAllen.png"  height="300"><img src="images/histsliceAllen.png" height="300">
 
 </br>
+
+The following sections are a personal reflection on how I dove into the mystery of ephys features and spiking patterns related to the mouse brain anatomy. It consists of three parts:
  
-The following sections are a personal reflection on how I dove into the mystery of ephys features and spiking patterns related to the mouse brain anatomy. It consists of three parts: 
 - How I came to terms with the [IBL ephys alignment GUI](https://github.com/sonjafoerster/internshipNL2023/blob/main/01_OMM_Part_I.md)
 - A personal account of my biggest learnings in the [Overall approach to ephys alignments](https://github.com/sonjafoerster/internshipNL2023/blob/main/02_OMM_Part_II.md)
-- A somewhat more content-focused account of [Common ephys features in the mouse brain (IBL repeated site)](https://github.com/sonjafoerster/internshipNL2023/blob/main/03_OMM_Part_III.md) including my personal logbook of sanity check and handling the IBL ephys GUI.
-  
+ A somewhat more content-focused account of [Common ephys features in the mouse brain (IBL repeated site)](https://github.com/sonjafoerster/internshipNL2023/blob/main/03_OMM_Part_III.md) including my personal logbook of sanity check and handling the IBL ephys GUI.
+
+</br>
+
 By the way, if you’re interested about Anne’s research topics and [project ideas, have a look at her wiki page](https://anne-urai.github.io/lab_wiki/ProjectIdeas.html "https://anne-urai.github.io/lab_wiki/ProjectIdeas.html") and get in contact with her!
 
 </br>
