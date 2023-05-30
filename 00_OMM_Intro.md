@@ -35,6 +35,7 @@ By the way, if you’re interested about Anne’s research topics and [project i
 
 * * *
 # Documentation of my alignment activities
+Access for authorised folks only.
 - [Overview spreadsheet](https://docs.google.com/spreadsheets/d/1Z6BIn8-febzvsmEHCao1rWnMz3n8eqJDbe5CdaDBW6Y/edit#gid=0 "https://docs.google.com/spreadsheets/d/1Z6BIn8-febzvsmEHCao1rWnMz3n8eqJDbe5CdaDBW6Y/edit#gid=0") with alignments I worked on
 - [Meeting minutes](https://docs.google.com/document/d/1kSeMpFLyE7b1jlhkMHSh6eXPtOSA1Z53BPmDKWNYOgQ/edit#heading=h.3026quwoznbh "https://docs.google.com/document/d/1kSeMpFLyE7b1jlhkMHSh6eXPtOSA1Z53BPmDKWNYOgQ/edit#heading=h.3026quwoznbh") alignment meeting with Anup on 9 May 2023
 - All files, including screenshots of tissue damage and potential noise artifacts are stored in this [gdrive folder](https://drive.google.com/drive/folders/1hTUZBVab2xnZGjZVqpY_9uH0P3CpDu8f "https://drive.google.com/drive/folders/1hTUZBVab2xnZGjZVqpY_9uH0P3CpDu8f")
