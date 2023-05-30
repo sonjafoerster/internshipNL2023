@@ -2,7 +2,7 @@
 
 </br>
 
-<img src="images/mouse.png"  height="600"> 
+<img src="images/mouse.png"  width="100%"> 
 
 _Image by Robin Haak, Netherlands Institute for Neuroscience (NiN), Amsterdam, NL_  
   
