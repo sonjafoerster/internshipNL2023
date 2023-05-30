@@ -17,7 +17,7 @@ So, this made then the core of my internship: do the ephys alignments for the ag
 </br>
 
 _Figure 1. The regions of the mouse brain comprising the IBL repeated site, and probe trajectory projected onto a coronal view of the Allen adult mouse brain atlas. (Source: [IBL reproducability paper](https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3 "https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3"))_  
-<img src="images/histmapAllen.png"  height="300"><img src="images/histsliceAllen.png" height="300">
+<img src="images/histmapAllen.png"  width="7%"><img src="images/histsliceAllen.png" width="52%">
 
 </br>
 
