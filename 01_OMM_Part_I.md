@@ -114,7 +114,7 @@ In case of less than 80% agreement between alignments, a resolution process need
 # Troubleshooting
 ## General
 Please find a list of [known problems and troubleshooting](https://github.com/int-brain-lab/iblapps/wiki/5.-Troubleshooting "https://github.com/int-brain-lab/iblapps/wiki/5.-Troubleshooting") in the respective section of the IBL user guide.
-If you encounter other issues, please try first to update your enviornment as described [[here]]. If the issue persists you can also
+If you encounter other issues, please try first to update your enviornment as described [here](https://github.com/sonjafoerster/internshipNL2023/blob/main/01_OMM_Part_I.md#keep-environment-up-to-date). If the issue persists you can also
 [open a ticket here](https://github.com/int-brain-lab/iblapps/issues "https://github.com/int-brain-lab/iblapps/issues"). Make sure to include a proper description to replicate the issue as well as the error message you got in the terminal.
 
 </br>
