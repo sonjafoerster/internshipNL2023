@@ -67,7 +67,7 @@ To launch the tool activate the unified IBL python environment (`iblenv`), then 
 ```
 conda activate iblenv
 # path to the ephys_atlas_gui.py file on your computer
-python int-brain-lab\iblapps\atlaselectrophysiology\ephys_atlas_gui.py 
+python int-brain-lab/iblapps/atlaselectrophysiology/ephys_atlas_gui.py 
 ```
   
 Depending on the local wifi connection, it might take some time for the software tool to load, keep an eye out on your terminal to watch the progress. When readily launched, you will see a GUI with empty plots - this is because no data file has been loaded yet. 
