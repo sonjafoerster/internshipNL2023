@@ -1,4 +1,4 @@
-# Of mice and men - Or: How I learned to read spikes. An Introduction
+# Of Mice and Men - Or: How I learned to read spikes. An Introduction
 
 </br>
 
