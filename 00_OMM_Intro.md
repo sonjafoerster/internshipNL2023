@@ -48,6 +48,6 @@ Access for authorised folks only.
 - [CoCoSys lab](https://anneurai.net/ "https://anneurai.net/") home
 - [Anne’s project ideas](https://anne-urai.github.io/lab_wiki/ProjectIdeas.html "https://anne-urai.github.io/lab_wiki/ProjectIdeas.html")
 - [International Brain Laboratory](https://nationalbrainlab.com/#home "https://nationalbrainlab.com/#home") - IBL
-- [IBL ephysatlas](https://ephysatlas.internationalbrainlab.org/ "https://ephysatlas.internationalbrainlab.org/")
+- [IBL ephysatlas](https://atlas.internationalbrainlab.org/ "https://atlas.internationalbrainlab.org/")
 - [Allen adult mouse brain atlas](http://atlas.brain-map.org/atlas?atlas=602630314#atlas=602630314&structure=8&resolution=16.00&x=5700.845703125&y=4000.3232421875&zoom=-3&plate=576989980 "http://atlas.brain-map.org/atlas?atlas=602630314#atlas=602630314&structure=8&resolution=16.00&x=5700.845703125&y=4000.3232421875&zoom=-3&plate=576989980")
 - IBL paper on the repeated site and reproducability project - focus ephys measures: [Reproducibility of in-vivo electrophysiological measurements in mice (2022)](https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3 "https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3")
