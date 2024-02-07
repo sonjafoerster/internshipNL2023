@@ -29,7 +29,7 @@ The following sections are a personal reflection on how I dove into the mystery 
 
 </br>
 
-From October 2023 through January 2024, I continued the above work as a research assistant (RA) at Anne's lab in what we came to call the "non-repeated site"-regions. These are Anne's recordings from aged mice in other regions than those listed above under _repeated site_. Most of these trajectories recorded from more frontal regions as well as several striatal nuclei relevant for integration of visual, motor, and decision-making activity. As part of my RA, I prepared a little introduction to ephys alignments for one of our lab meetings. In case you're interested, here are the [slides](https://docs.google.com/viewer?url=https://github.com/sonjafoerster/internshipNL2023/blob/main/images/Intro_to_ephys_alignments_IBL_GUI_public.pdf)
+From October 2023 through January 2024, I continued the above work as a research assistant (RA) at Anne's lab in what we came to call the "non-repeated site"-regions. These are Anne's recordings from aged mice in other regions than those listed above under _repeated site_. Most of these trajectories recorded from more frontal regions as well as several striatal nuclei relevant for integration of visual, motor, and decision-making activity. As part of my RA, I prepared a little introduction to ephys alignments for one of our lab meetings. In case you're interested, here are the [slides](https://github.com/sonjafoerster/internshipNL2023/blob/main/images/Intro_to_ephys_alignments_IBL_GUI_public.pdf#:~:text=images-,Intro_to_ephys_alignments_IBL_GUI_public,-.pdf)
 
 </br>
 
