@@ -1,7 +1,7 @@
-# Of mice and men - Part II: Overall approach to ephys alignments
+# Of Mice and Men - Part II: Overall approach to ephys alignments
 This post is the second of three parts of my personal reflections  [Of mice and men Or: How I learned to read spikes](https://github.com/sonjafoerster/internshipNL2023/blob/main/00_OMM_Intro.md). The other two parts are:
 - How I came to terms with the [IBL ephys alignment GUI](https://github.com/sonjafoerster/internshipNL2023/blob/main/01_OMM_Part_I.md)
-- A somewhat more content-focused account of [Common ephys features in the mouse brain (IBL repeated site)](https://github.com/sonjafoerster/internshipNL2023/blob/main/03_OMM_Part_III.md) including my personal logbook of sanity check and handling the IBL ephys GUI.
+- A somewhat more content-focused account of [Common ephys features in the mouse brain (IBL repeated site)](https://github.com/sonjafoerster/internshipNL2023/blob/main/03_OMM_Part_III.md) including my personal logbook of sanity checks and handling the IBL ephys GUI.
 
 </br>
 
@@ -43,7 +43,7 @@ _(Source: screenshots from my alignments)_
 </br>
 
 The biggest learning for me here was twofold:
-1. The truth is not the truth, but the result of many manual and automated steps to record data from a living animal, reduce noise on multiple scales, and sort units according to their overlap in waveform features and their believed distance to the probe (for an excellent overview of challenges and potential signal disturbances in extracellular recordings see [Harris et al.; 2016](https://10.1038/nn.4365 "https://10.1038/nn.4365")). So don’t pretend precision and unambiguity where it might just not be.
+1. The truth is not the truth, but the result of many manual and automated steps to record data from a living animal, reduce noise on multiple scales, and sort units according to their overlap in waveform features and their believed distance to the probe (for an excellent overview of challenges and potential signal disturbances in extracellular recordings see [Harris et al.; 2016](https://www-nature-com.ezproxy.leidenuniv.nl/articles/nn.4365 "https://www-nature-com.ezproxy.leidenuniv.nl/articles/nn.4365")). So don’t pretend precision and unambiguity where it might just not be.
 2. Do not look for the simple relation, the easy explanation. Acknowledge the difficile and fragile uniquness of each recording, modulated by contextual factors such as, recording from a living individual, relying on imperfect technological wonders - and our ignorance of everything we cannot record (and many things we can record). Go on the treasure hunt to shed light on each recording’s secret, and to identify those elements of the story which are shared across recordings. 
   
 To do so, use all the information available, dance back and forth between the plots - and enjoy the puzzle.
@@ -84,4 +84,4 @@ My former me (human factors engineer, UX designer, user-centered-design expert) 
 # References
 - An [introduction lecture](https://www.youtube.com/watch?v=JWzj_vZYr-g&feature=youtu.be "https://(https://www.youtube.com/watch?v=JWzj_vZYr-g&feature=youtu.be") to the tool was given at the [2020 UCL Neuropixels course](https://www.ucl.ac.uk/neuropixels/training/2020-neuropixels-course "https://www.ucl.ac.uk/neuropixels/training/2020-neuropixels-course")
 - Paper by Ashwood et al. (2022): [Mice alternate between discrete strategies during perceptual decision-making](https://www.nature.com/articles/s41593-021-01007-z "https://www.nature.com/articles/s41593-021-01007-z")
-- Paper by Harris et al. (2016): [Improving data quality in neuronal population recordings](https://www-nature-com.ezproxy.leidenuniv.nl "https://www-nature-com.ezproxy.leidenuniv.nl")
+- Paper by Harris et al. (2016): [Improving data quality in neuronal population recordings](https://www-nature-com.ezproxy.leidenuniv.nl/articles/nn.4365 "https://www-nature-com.ezproxy.leidenuniv.nl/articles/nn.4365")

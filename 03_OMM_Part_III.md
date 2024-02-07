@@ -1,4 +1,4 @@
-# Of mice and men - Part III: Common ephys features in the mouse brain (IBL repeated site)
+# Of Mice and Men - Part III: Common ephys features in the mouse brain (IBL repeated site)
 This post is the third - and last - of three parts of my personal reflections  [Of mice and men Or: How I learned to read spikes](https://github.com/sonjafoerster/internshipNL2023/blob/main/00_OMM_Intro.md). The other two parts are:
 - How I came to terms with the [IBL ephys alignment GUI](https://github.com/sonjafoerster/internshipNL2023/blob/main/01_OMM_Part_I.md)
 - A personal account of my biggest learnings in the [Overall approach to ephys alignments](https://github.com/sonjafoerster/internshipNL2023/blob/main/02_OMM_Part_II.md)

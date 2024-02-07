@@ -1,7 +1,7 @@
-# Of mice and men - Part I: The IBL ephys alignment GUI
+# Of Mice and Men - Part I: The IBL ephys alignment GUI
 This post is the first of three parts of my personal reflections  [Of mice and men Or: How I learned to read spikes](https://github.com/sonjafoerster/internshipNL2023/blob/main/00_OMM_Intro.md). The other two parts are:
 - A personal account of my biggest learnings in the [Overall approach to ephys alignments](https://github.com/sonjafoerster/internshipNL2023/blob/main/02_OMM_Part_II.md)
-- A somewhat more content-focused account of [Common ephys features in the mouse brain (IBL repeated site)](https://github.com/sonjafoerster/internshipNL2023/blob/main/03_OMM_Part_III.md) including my personal logbook of sanity check and handling the IBL ephys GUI.
+- A somewhat more content-focused account of [Common ephys features in the mouse brain (IBL repeated site)](https://github.com/sonjafoerster/internshipNL2023/blob/main/03_OMM_Part_III.md) including my personal logbook of sanity checks and handling the IBL ephys GUI.
   
 Here, I will briefly introduce the IBL ephys alignment tool and provide some basic practicalities to get it up and running. This is mostly pulling together information from several github repos. It is therefore meant as a one-stop-shop to get started and to find more information as needed - plus some personal remarks.
 
@@ -67,7 +67,7 @@ To launch the tool activate the unified IBL python environment (`iblenv`), then 
 ```
 conda activate iblenv
 # path to the ephys_atlas_gui.py file on your computer
-python int-brain-lab\iblapps\atlaselectrophysiology\ephys_atlas_gui.py 
+python int-brain-lab/iblapps/atlaselectrophysiology/ephys_atlas_gui.py 
 ```
   
 Depending on the local wifi connection, it might take some time for the software tool to load, keep an eye out on your terminal to watch the progress. When readily launched, you will see a GUI with empty plots - this is because no data file has been loaded yet. 
