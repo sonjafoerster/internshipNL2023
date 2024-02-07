@@ -16,8 +16,8 @@ Of great help were for example the [IBL paper on their spike sorting pipeline (I
 ## Sonja’s sanity check logbook
 **What looks like noise artifacts may or may not be actual noise, so assess carefully.** 
 - Check e.g., RMS (root mean square) and PSD (power spectral density) plots for horizontal black lines (indicate flat reference channels, or noisy channels which should be excluded) versus vertical stripes (may indicate electrical noise / grounding issues; might occur due to dried-out saline bath, or refilling saline) → Are artifacts along similar locations?
-- Is it drift? Assess the patterns. For example, does the whole probe seem to drift or only upper or lower parts? When during session does it start? Short-duration drift at the very beginning or end of a session may indicate that probe was still inserted when recording started, or probe was already extracted before recording stopped.
-- In case of very noisy recording, check how many units get filtered out when applying the _IBL good_ filter on spike sorting. If many units get filtered out, this may indicate poor recording quality. Also, check unit waveform features from cluster plots → plausible waveform or rather multiunits or “wild oscillations”? Of note: do alignments on unflitered (i.e., all) units.
+- Is it drift? Assess the patterns. For example, does the whole probe seem to drift or only upper or lower parts? When during session does it start? Short-duration drift at the very beginning or end of a session may indicate that probe was still inserted when recording started, or probe was already extracted before recording stopped, respectively.
+- In case of a very noisy recording, check how many units get filtered out when applying the _IBL good_ filter on spike sorting. If many units get filtered out, this may indicate poor recording quality. Also, check unit waveform features from cluster plots → plausible waveform or rather multiunits or “wild oscillations”? Of note: do alignments on unflitered (i.e., all) units.
 
 </br>
 
@@ -29,7 +29,7 @@ _Figure 1. Assessing recording quality by visually inspecting RMS plots: spatial
 
 **Tissue damage - or not?**
 
-Another source of noise could be related to tissue damage. Check histology plot to see if severe tissue damage is visible and may have disturbed the signal. Of note, though: the tissue slice can only reflects the damage as it appeared at the time of the animal’s death. Thus, earlier recordings may not have been impacted by the later tissue damage at all. For sanity, check whether session to be aligned was among the earlier or later recordings of that animal. 
+Another source of noise could be related to tissue damage. Check histology plot to see if severe tissue damage is visible and may have disturbed the signal. Of note, though: the tissue slice can only reflect the damage as it appeared at the time of the animal’s death. Thus, earlier recordings may not have been impacted by the later tissue damage at all (and some damage may only have occured while preparing the slices). So check whether the session to be aligned was among the earlier or later recordings of that animal. 
 
 </br>
 
@@ -55,7 +55,8 @@ _Figure 3. Example of axonal spike with flipped polarity waveform (left) versus 
 
 **Scaling**
 
-In contrast to purely offsetting the probe (i.e., shifting it up or down to align with the reference), scaling indicates the difference in physical brain size between the particular mouse of this very recording and the average Allan atlas mouse (which is an average across 1600 mice). While it can happen that brain regions are differently expressed in different mice, size of brain regions within one mouse are likely relative to the overall physical size of their brain. Thus, it is rather unlikely that there would be a lot of both stretching and compression on different (adjacent) brain regions within one animal. It is more likely to have an overall larger or overall smaller brain (compared to the average image), which would lead to an overall compression or overall stretching upon the alignment. Thus, if your alignment suggests both stretched and compressed scaling, go back and sanity check carefully.
+In contrast to purely offsetting the probe (i.e., shifting it up or down to align with the reference), scaling indicates the difference in physical brain size between the particular mouse of this very recording and the average Allan atlas mouse (which is an average across 1600 mice). While it can happen that brain regions are differently expressed in different mice, size of brain regions within one mouse are likely relative to the overall physical size of their brain. Thus, it is rather unlikely that there would be a lot of both stretching and compression on different (adjacent) brain regions within one animal. It is more likely to encounter an overall larger or overall smaller brain (compared to the average image), which would lead to an overall compression or overall stretching upon the alignment, respectively. Thus, if your alignment suggests both stretched and compressed scaling, go back and sanity check carefully.
+There is one more aspect to consider: Often, one animal performs multiple sessions, so there are multiple recordings from one animal (with potentially different probe trajectories). As it is the same animal, though, chances are that the animal's brain pertained its overall size. This means, that alignments across sessions from this very animal should result in a somewhat similar scaling factor. Sounds reasonable? Check the _Scaling factors for this animal_.
 
 </br>
 
@@ -66,19 +67,19 @@ The angle of the probe trajectory matters a lot when assessing similarity in spi
 </br>
 
 ## Some minor flaws I encountered in the GUI
-The [IBL ephys alignmen GUI](https://github.com/sonjafoerster/internshipNL2023/blob/main/01_OMM_Part_I.md) is a well thought through and robustly implemented tool to manually align ephys features to histology landmarks and visually check the quality of the recordings. What is more, a dedicated team of extremly skilled experts continues to dilligently work on and improve the tool. For example, at some point, I experienced that I was not able to obtain the unit feature popups from the cluster plots. So I [filed a ticket here](https://github.com/int-brain-lab/iblapps/issues "https://github.com/int-brain-lab/iblapps/issues"), and within a day or two the problem was fixed. This, truly was impressive turnaround time!
+The [IBL ephys alignmen GUI](https://github.com/sonjafoerster/internshipNL2023/blob/main/01_OMM_Part_I.md) is a well thought through and robustly implemented tool to manually align ephys features to histology landmarks and visually check the quality of the recordings. What is more, a dedicated team of extremly skilled experts continues to dilligently work on and improve the tool. For example, at some point, I experienced that I was not able to obtain the unit feature popups from the cluster plots. So I [filed a ticket here](https://github.com/int-brain-lab/iblapps/issues "https://github.com/int-brain-lab/iblapps/issues"), and within a day or two the problem was fixed. This truly is an impressive turnaround time!
   
 There are, however, some minor flaws in the GUI which may be helpful to know if you are about to get familiar with the tool (did I mention that my former me worked as an UX designer...?):
 
 </br>
 
 ### Colored reference lines: make sure you move the intended one
-Presumably to better differentiate between them, reference lines are colored. Till now, however, I was not able to determine the particular order of colors, nor whether there might be any other reason for the colors. And yes, it does not really matter as of my current state of knowledge. What is a little challenging at times, though, is that some colors are very much the same as some of the colors in the histology map, for example the ligth green of some CA1 and some of the DG nuclei. Thus, be always sure which reference line you move - and whether it is the intended one. To me, moving the wrong (unitended) reference line on the histology map happened especially when I set multiple reference lines before hitting the _Fit_ button, i.e., before the map was shifted / scaled.
+Presumably to better differentiate between them, reference lines are colored. Till now, however, I was not able to determine the particular order of colors, nor whether there might be any other reason for the colors. And yes, it does not really matter as of my current state of knowledge. What is a little challenging at times, though, is that some colors are very much the same as some of the colors in the histology map, for example the ligth green of some CA1 and some of the DG nuclei, making it really hard to spot the line once generated. Thus, be always sure which reference line you move - and whether it is the intended one. To me, moving the wrong (unitended) reference line on the histology map happened especially when I set multiple reference lines before hitting the _Fit_ button, i.e., before the map was shifted / scaled.
 
 </br>
 
 ### Hard to retrieve the very same unit feature popup again
-Upon clicking on a dot in the cluster plots a unit feature overview would pop up. While the clusters are numbered on this popup, there seems no option available to retrieve a specific feature popup. It would be great to e.g., show the cluster number when hovering over a cluster point, or to have a functionality which allows to search for a specific cluster number. Also, it would be great to see which popup belongs to which dot in the cluster plot, e.g., through a line or callout-like design of the popup.
+Upon clicking on a dot in the cluster plots, a unit feature overview would pop up. While the clusters are numbered on this popup, there seems no option available to retrieve a specific feature popup. It would be great to e.g., show the cluster number when hovering over a cluster point, or to have a functionality which allows to search for a specific cluster number. Also, it would be great to see which popup belongs to which dot in the cluster plot, e.g., through a line or callout-like design of the popup.
 
 </br>
 

@@ -25,11 +25,15 @@ The following sections are a personal reflection on how I dove into the mystery 
  
 - How I came to terms with the [IBL ephys alignment GUI](https://github.com/sonjafoerster/internshipNL2023/blob/main/01_OMM_Part_I.md)
 - A personal account of my biggest learnings in the [Overall approach to ephys alignments](https://github.com/sonjafoerster/internshipNL2023/blob/main/02_OMM_Part_II.md)
-- A somewhat more content-focused account of [Common ephys features in the mouse brain (IBL repeated site)](https://github.com/sonjafoerster/internshipNL2023/blob/main/03_OMM_Part_III.md) including my personal logbook of sanity checks and handling the IBL ephys GUI.
+- A somewhat more content-focused account of [Common ephys features in the mouse brain (IBL repeated site)](https://github.com/sonjafoerster/internshipNL2023/blob/main/03_OMM_Part_III.md) including my personal logbook of sanity checks and navigating the IBL ephys GUI.
 
 </br>
 
+<<<<<<< HEAD
 From October 2023 through January 2024, I continued the above work as a research assistant (RA) at Anne's lab in what we came to call the "non-repeated site"-regions. These are Anne's recordings from aged mice in other regions than those listed above under _repeated site_. Most of these trajectories recorded from more frontal regions as well as several striatal nuclei relevant for integration of visual, motor, and decision-making activity. As part of my RA, I prepared a little introduction to ephys alignments for one of our lab meetings. In case you're interested, here are the [slides](https://docs.google.com/viewer?url=https://github.com/sonjafoerster/internshipNL2023/blob/main/images/Intro_to_ephys_alignments_IBL_GUI_public.pdf).
+=======
+From October 2023 through January 2024, I continued the above work as a research assistant (RA) at Anne's lab in what we came to call the "non-repeated site"-regions. These are Anne's recordings from aged mice in other regions than those listed above under _repeated site_. Most of these trajectories recorded from more frontal regions as well as several striatal nuclei relevant for integration of visual, motor, and decision-making activity. As part of my RA, I prepared a little introduction to ephys alignments for one of our lab meetings. In case you're interested, here are the [slides](https://github.com/sonjafoerster/internshipNL2023/blob/main/images/Intro_to_ephys_alignments_IBL_GUI_public.pdf#:~:text=images-,Intro_to_ephys_alignments_IBL_GUI_public,-.pdf).
+>>>>>>> f7da095332bd3aa75ad7f2ffefcc1477931b42bb
 
 </br>
 
@@ -55,3 +59,4 @@ Access for authorised folks only.
 - [IBL ephysatlas](https://atlas.internationalbrainlab.org/ "https://atlas.internationalbrainlab.org/")
 - [Allen adult mouse brain atlas](http://atlas.brain-map.org/atlas?atlas=602630314#atlas=602630314&structure=8&resolution=16.00&x=5700.845703125&y=4000.3232421875&zoom=-3&plate=576989980 "http://atlas.brain-map.org/atlas?atlas=602630314#atlas=602630314&structure=8&resolution=16.00&x=5700.845703125&y=4000.3232421875&zoom=-3&plate=576989980")
 - IBL paper on the repeated site and reproducability project - focus ephys measures: [Reproducibility of in-vivo electrophysiological measurements in mice (2022)](https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3 "https://www.biorxiv.org/content/10.1101/2022.05.09.491042v3")
+- [My slides _Of Mice and Men. A very personal intro to ephys alignments using the IBL GUI_](https://github.com/sonjafoerster/internshipNL2023/blob/main/images/Intro_to_ephys_alignments_IBL_GUI_public.pdf#:~:text=images-,Intro_to_ephys_alignments_IBL_GUI_public,-.pdf)
