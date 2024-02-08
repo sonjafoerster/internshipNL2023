@@ -5,7 +5,14 @@ Documentation of activities and results related to my internship in 2023 at [Ann
 
 The following sections are a personal reflection on how I dove into the mystery of ephys features and spiking patterns related to the mouse brain anatomy. It consists of three parts:
  
-- [Introduction and project overview](https://github.com/sonjafoerster/internshipNL2023/blob/main/00_OMM_Intro.html)
-- How I came to terms with the [IBL ephys alignment GUI](https://github.com/sonjafoerster/internshipNL2023/blob/main/01_OMM_Part_I.html)
-- A personal account of my biggest learnings in the [Overall approach to ephys alignments](https://github.com/sonjafoerster/internshipNL2023/blob/main/02_OMM_Part_II.html)
-- A somewhat more content-focused account of [Common ephys features in the mouse brain (IBL repeated site)](https://github.com/sonjafoerster/internshipNL2023/blob/main/03_OMM_Part_III.html) including my personal logbook of sanity checks and navigating the IBL ephys GUI.
+Links to github repo files
+- [Introduction and project overview](https://github.com/sonjafoerster/internshipNL2023/blob/main/00_OMM_Intro.md)
+- How I came to terms with the [IBL ephys alignment GUI](https://github.com/sonjafoerster/internshipNL2023/blob/main/01_OMM_Part_I.md)
+- A personal account of my biggest learnings in the [Overall approach to ephys alignments](https://github.com/sonjafoerster/internshipNL2023/blob/main/02_OMM_Part_II.md)
+- A somewhat more content-focused account of [Common ephys features in the mouse brain (IBL repeated site)](https://github.com/sonjafoerster/internshipNL2023/blob/main/03_OMM_Part_III.md) including my personal logbook of sanity checks and navigating the IBL ephys GUI.
+
+Links to github pages
+- [Introduction and project overview](https://sonjafoerster/github.io/internshipNL2023/00_OMM_Intro.html)
+- How I came to terms with the [IBL ephys alignment GUI](https://sonjafoerster/github.io/internshipNL2023/01_OMM_Part_I.html)
+- A personal account of my biggest learnings in the [Overall approach to ephys alignments](https://sonjafoerster/github.io/internshipNL2023/02_OMM_Part_II.html)
+- A somewhat more content-focused account of [Common ephys features in the mouse brain (IBL repeated site)](https://sonjafoerster/github.io/internshipNL2023/03_OMM_Part_III.html) including my personal logbook of sanity checks and navigating the IBL ephys GUI.
